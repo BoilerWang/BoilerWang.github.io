@@ -58,9 +58,9 @@
   <nav>
     <ul>
       <li class="active"><a href="#">Home</a></li>
-      <li><a href="research-areas.html">Research Areas</a></li>
-      <li><a href="publications.html">Publications</a></li>
-      <li><a href="team.html">Team</a></li>
+      <li><a href="BoilerWang.github.io/research-areas.html">Research Areas</a></li>
+      <li><a href="BoilerWang.github.io/publications.html">Publications</a></li>
+      <li><a href="BoilerWang.github.io/team.html">Team</a></li>
       <li><a href="#">Contact</a></li>
     </ul>
   </nav>
@@ -73,7 +73,7 @@
     <p>
       Provide an overview of the different research areas and projects conducted in your lab related to vitamin E.
       <br>
-      <a href="research-areas.html">Click here</a> to learn more about our research areas.
+      <a href="BoilerWang.github.io/research-areas.html">Click here</a> to learn more about our research areas.
     </p>
     <h2>Publications</h2>
     <p>
